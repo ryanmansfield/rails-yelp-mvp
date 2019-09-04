@@ -23,7 +23,7 @@ restaurants_attributes = [
     name: 'Taco Bell',
     address: '1234 ave',
     category: 'italian',
-    phone_number: 5
+    phone_number: '523 23423 43'
   },
   {
     name: 'Dishoom',
